@@ -63,23 +63,23 @@ resulto/
 ## 🖼️ System Screenshots
 
 ### 🧭 System Flow Diagram
-![System Flow Diagram](a.png)
+![System Flow Diagram](outputs/a.png)
 
 ---
 
 ### 🖥️ CLI Interface Output
 **Main Menu**
-![CLI Output 1](c.png)
+![CLI Output 1](outputs/c.png)
 
 ---
 
 ### 🧾 Result Declaration via Email
-![Email Sending](e.png)
+![Email Sending](outputs/e.png)
 
 ---
 
 ### 🧾 HTML Result Report
-![HTML Report Preview](h.png)
+![HTML Report Preview](outputs/h.png)
 
 ---
 ---
