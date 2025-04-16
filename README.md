@@ -60,15 +60,7 @@ resulto/
 └── README.md
 ```
 
-## 🖼️ System Screenshots
-
-### 🧭 System Flow Diagram
-![System Flow Diagram](outputs/a.png)
-
----
-
 ### 🖥️ CLI Interface Output
-**Main Menu**
 ![CLI Output 1](outputs/c.png)
 
 ---
